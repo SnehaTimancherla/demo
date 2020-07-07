@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\architechure\artifactid123\src\main\java\groupid123\.metadata\.plugins\org.eclipse.jdt.core
+3356120008.index
+3075073454.index
